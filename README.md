@@ -49,7 +49,7 @@ On top, where imports are:
 import com.zjiaxin.vrvideo.RNVRVideoPackage;
 ```
 
-Add the `ReactVideoPackage` class to your list of exported packages.
+Add the `RNVRVideoPackage` class to your list of exported packages.
 
 ```java
 @Override
